@@ -1,3 +1,5 @@
 name = "kunpang"
 compatibility_date = "2026-03-19"
-pages_build_output_dir = "./out"
+
+[assets]
+directory = "./out"
